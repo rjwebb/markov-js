@@ -15,7 +15,10 @@ Install dependencies:
 
 ## Usage
 Run gulp. It copies the dependencies to ```js/``` and ```css/``` and then starts the server:
+```gulp ```
 
-```gulp```
+Navigate to:
 
-Navigate to ```http://localhost:8080```.
+```http://localhost:8080 ```
+
+
