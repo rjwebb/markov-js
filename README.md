@@ -8,9 +8,11 @@ Download repository:
 ```git clone https://github.com/rjwebb/markov-js.git```
 
 Change to repository directory:
+
 ```cd markov-js```
 
 Install dependencies:
+
 ```npm install && bower install```
 
 ## Usage
