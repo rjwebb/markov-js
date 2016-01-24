@@ -15,6 +15,7 @@ Install dependencies:
 
 ## Usage
 Run gulp. It copies the dependencies to ```js/``` and ```css/``` and then starts the server:
+
 ```gulp ```
 
 Navigate to:
