@@ -5,7 +5,7 @@ A simple webapp that lets you create Markov chain gibberish. The most interestin
 ## Installation
 Download repository:
 
-```git clone ___```
+```git clone https://github.com/rjwebb/markov-js.git```
 
 Change to repository directory:
 ```cd markov-js```
